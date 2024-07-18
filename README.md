@@ -18,6 +18,15 @@ The JSON file (`fake_person_data.json`) will act as an API, containing an array 
    - Implement a constructor to initialize user properties from the JSON data.
    - Add a method to calculate the age of the user.
    - Add a method to determine if the user is retired (age > 65).
+   - Hints on implementation:
+      1. **Define the `Person` Class:**
+         - This class will handle basic details such as name, address, email, phone number, and birthdate.
+         - Add a method to calculate the age of the person.
+
+      2. **Extend the `User` Class from `Person`:**
+         - The `User` class will inherit from the `Person` class.
+         - Add specific properties and methods related to the users, such as job, company, and retirement status.
+         - Ensure the methods in the `User` class utilize the inherited properties and methods from the `Person` class.
 
 2. **HTML Table Display:**
    - Display user data in an HTML table.
