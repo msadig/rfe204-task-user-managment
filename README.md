@@ -96,3 +96,7 @@ The JSON file (`fake_person_data.json`) will act as an API, containing an array 
 - Ensure to fetch the JSON data asynchronously and handle any potential errors during the fetch process.
 
 This assignment will help you understand how to work with JSON data, create and manipulate DOM elements, and implement key JavaScript functionalities such as classes, methods, arrays, and event listeners.
+
+---
+
+API Endpoint: https://api.npoint.io/9cda598e0693b49ef1eb
